@@ -1,0 +1,10 @@
+{
+  "displayName": "Iris",
+  "specialty": "Brow designer",
+  "services": ["brow shaping", "brow tinting", "soft lamination-style grooming"],
+  "clientExperience": "thoughtful brow mapping and gentle shaping that respects each client's natural features",
+  "style": "balanced, refined, approachable",
+  "location": "Fictional Harbor",
+  "languages": ["English", "Spanish"],
+  "avoid": ["permanent results guarantees", "medical skin-care advice"]
+}
