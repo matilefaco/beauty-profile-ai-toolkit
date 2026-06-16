@@ -1,0 +1,10 @@
+{
+  "displayName": "Lina",
+  "specialty": "Hair stylist",
+  "services": ["layered cuts", "blowouts", "low-maintenance color refreshes"],
+  "clientExperience": "collaborative consultations and practical styling guidance for everyday wear",
+  "style": "approachable, polished, practical",
+  "location": "Fictional City",
+  "languages": ["English"],
+  "avoid": ["guaranteed hair transformation claims", "invented certifications"]
+}

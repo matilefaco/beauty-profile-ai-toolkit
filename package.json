@@ -1,0 +1,13 @@
+{
+  "name": "beauty-profile-ai-toolkit",
+  "version": "0.1.0",
+  "description": "Open-source prompt framework and lightweight TypeScript toolkit for beauty professional bios and profile headlines.",
+  "type": "module",
+  "license": "Apache-2.0",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0"
+  }
+}

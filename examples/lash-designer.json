@@ -1,0 +1,10 @@
+{
+  "displayName": "Sofia",
+  "specialty": "Lash designer",
+  "services": ["classic lash extensions", "lash lifts", "natural-looking lash sets"],
+  "clientExperience": "soft styling that fits each client's eye shape and daily routine",
+  "style": "gentle, polished, natural",
+  "location": "Fictional City",
+  "languages": ["English", "Portuguese"],
+  "avoid": ["dramatic before-and-after guarantees", "medical eye-care advice"]
+}
