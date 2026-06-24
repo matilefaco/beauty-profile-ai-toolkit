@@ -14,6 +14,16 @@ Please do **not** contribute:
 
 All examples should be fictional, minimal, and safe to publish.
 
+## Using AI coding agents safely
+
+AI coding agents can help with documentation, fictional examples, tests, and prompt evaluation. When using them for this repository:
+
+- Ask agents to work only with files, issues, and pull requests from this public repository.
+- Do not provide private Nera SaaS code, production prompts, booking logic, payment logic, credentials, production configuration, or real customer data.
+- Keep any sample profiles, names, locations, services, and business details fictional and safe to publish.
+- Review generated changes before opening a pull request, especially prompt wording, safety claims, and example data.
+- Keep AI-assisted contributions small enough for maintainers to review easily.
+
 ## Good first contributions
 
 - Add fictional example profiles for additional beauty specialties.
